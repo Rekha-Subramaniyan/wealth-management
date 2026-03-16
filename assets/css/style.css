@@ -12514,7 +12514,7 @@ ul.comment-list:has(> .th-comment-item ~ .th-comment-item):first-child > .th-pos
 }
 
 .hero-title {
-  font-size: 84px;
+  font-size: 70px;
   color: var(--white-color);
   line-height: 1.1;
   margin-bottom: 25px;
